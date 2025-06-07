@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Florería La Gardenia</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <h1>Florería La Gardenia</h1>
+    <nav>
+      <ul>
+        <li><a href="#inicio">Inicio</a></li>
+        <li><a href="#servicios">Servicios</a></li>
+        <li><a href="#galeria">Galería</a></li>
+        <li><a href="#contacto">Contacto</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <section id="inicio" class="hero">
+    <h2>Flores que expresan lo que las palabras no pueden</h2>
+    <p>Arreglos florales personalizados para cada ocasión.</p>
+  </section>
+
+  <section id="servicios">
+    <h2>Nuestros servicios</h2>
+    <ul>
+      <li>Ramos personalizados</li>
+      <li>Decoración para bodas y eventos</li>
+      <li>Entregas a domicilio</li>
+      <li>Suscripciones florales mensuales</li>
+    </ul>
+  </section>
+
+  <section id="galeria">
+    <h2>Galería</h2>
+    <p>Pronto podrás ver nuestras creaciones más hermosas aquí.</p>
+  </section>
+
+  <section id="contacto">
+    <h2>Contáctanos</h2>
+    <p>Email: contacto@lagardenia.com</p>
+    <p>Teléfono: 228 123 4567</p>
+    <p>Ubicación: Xalapa, Veracruz</p>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 Florería La Gardenia. Todos los derechos reservados.</p>
+  </footer>
+</body>
+</html>
